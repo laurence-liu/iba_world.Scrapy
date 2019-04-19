@@ -102,3 +102,17 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.idea/workspace.xml
+
+.idea/modules.xml
+
+.idea/misc.xml
+
+.idea/libraries/R_User_Library.xml
+
+.idea/iba_world.Scrapy.iml
+
+.idea/encodings.xml
+
+.idea/vcs.xml
